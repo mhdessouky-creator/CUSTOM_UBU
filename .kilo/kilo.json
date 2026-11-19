@@ -1,0 +1,10 @@
+{
+  "mcp": {
+    "servers": {
+      "kilo-kit": {
+        "type": "local",
+        "command": ["npx", "-y", "@vodailocz/kilo-kit-mcp"]
+      }
+    }
+  }
+}
